@@ -1,0 +1,18 @@
+# Python environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Django
+*.sqlite3
+
+# Secrets & Configs
+client_secret.json
+.env
+
+# Serverless & Node
+.serverless/
+node_modules/
+package-lock.json

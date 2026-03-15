@@ -1,0 +1,11 @@
+Django~=6.0
+python-decouple
+requests
+google-api-python-client>=2.118.0
+google-auth-oauthlib
+google-auth-httplib2
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
+setuptools
